@@ -6,3 +6,6 @@ console.log (9 + 1 * 5);
 
 2+2 
 22+22
+
+console.log(patm1
+)
